@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SlamJamBura
-- 👀 I’m interested in Blockchain and Web Development
+- 👀 I’m interested in Blockchain ,Web Development and Qa
 - 🌱 I’m currently learning Javascript/React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nice.jamburia@gmail.com
